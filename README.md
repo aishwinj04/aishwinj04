@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aishwin
 
-<!--
-**aishwinj04/aishwinj04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **computer science student** passionate about programming, videography, and creating meaningful projects that solve real-world problems. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+Here are the tools and technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Languages**      | **Frameworks & Libraries**  | **Tools**           |
+|---------------------|-----------------------------|---------------------|
+| Python, JavaScript  | React, jQuery              | Git/GitHub          |
+| Bash, HTML/CSS      | Tkinter                    | VSCode, Emacs       |
+| PHP, Swift, Java    | Bootstrap                  | phpMyAdmin, XAMPP   |
+
+---
