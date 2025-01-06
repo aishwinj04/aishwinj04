@@ -10,7 +10,7 @@ A conversational chatbot that answers user queries by fetching relevant informat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Natural Language Processing](https://img.shields.io/badge/NLP-NLTK%20|%20Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 2. [OpenCV Face Blurring Tool](https://github.com/yourusername/opencv-face-blurring)
+### 2. [OpenCV Face Blurring Tool](https://github.com/aishwinj04/Face-Censoring-in-Video)
 Python program that uses frontal face detection for video and blurs those regions out in the result.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
