@@ -2,8 +2,6 @@
 
 - 👨‍💻 CS Student @Toronto Metropolitan University.
 - Python & Web Dev Enthusiast
-  
-## 🚀 Recent Projects
 
 ## 🛠 Core Languages
 
@@ -20,6 +18,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=dev-dot-dot-dot&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## 🚀 Recent Projects
 
 ### 1. [Wikipedia Chatbot](https://github.com/aishwinj04/Experimental-Wikipedia-Chatbot)
 A conversational chatbot that answers user queries by fetching relevant information from Wikipedia articles.  
