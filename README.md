@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Aishwin
 
-Welcome to my GitHub profile! I'm a **computer science student** with a passion for web development and a strong focus on front-end development, UI/UX design, and full-stack technologies. I am eager to leverage my technical skills and contribute to creating innovative, user-centric web applications. 
+- 👨‍💻 CS Student @TorontoMetropolitanUniversity.
+- Python & Web Dev Enthusiast
 
 ## 🚀 Recent Projects
 
