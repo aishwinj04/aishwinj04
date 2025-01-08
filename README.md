@@ -20,8 +20,7 @@
 ## 🚀 Recent Projects
 
 ### 1. [Wikipedia Chatbot](https://github.com/aishwinj04/Experimental-Wikipedia-Chatbot)
-A conversational chatbot that answers user queries by fetching relevant information from Wikipedia articles.  
-
+A conversational chatbot that answers user queries by fetching relevant information from Wikipedia articles. <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Natural Language Processing](https://img.shields.io/badge/NLP-NLTK%20|%20Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
