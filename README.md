@@ -1,3 +1,7 @@
+# Hi there! 👋 I'm Aishwin <br>
+- 👨‍💻 CS Student at Toronto Metropolitan University <br>
+- Python & Web Dev Enthusiast
+
 ## 🛠 Core Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
