@@ -19,7 +19,7 @@
 
 ## 🚀 Recent Projects
 
-### 1. [Weather Finder: A Web App for Real-Time Weather Info](https://github.com/aishwinj04/Weather-Finder)
+### 1. [Weather Finder: A Web App for Real-Time Weather Info](https://github.com/aishwinj04/Weather-Finder-App)
 A React application that provides real-time weather information, including current temperature and weather conditions using the OpenWeatherAPI.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
