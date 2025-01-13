@@ -29,7 +29,6 @@ A React application that provides real-time weather information, including curre
 ![API](https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=api&logoColor=white)
 
 
-
 ### 2. [InspireMe: A Web App for Quotes](https://github.com/aishwinj04/Quotes-Web-App)
 A React application that displays a random quote from an API and allows users to save their favourite quotes.
 
