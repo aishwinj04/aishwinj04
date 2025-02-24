@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Aishwin
 - 👨‍💻 CS Student at Toronto Metropolitan University <br>
-- Python & Web Dev Enthusiast
 
 ## 🛠 Core Languages
 
